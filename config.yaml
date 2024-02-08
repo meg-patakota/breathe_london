@@ -1,0 +1,5 @@
+# Add sitecodes needed here
+siteCodes = all_sitecodes  
+species1 = "IPM25"
+species2 = "INO2"
+averaging = "Hourly"
